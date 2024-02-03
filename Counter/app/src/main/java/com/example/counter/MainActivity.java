@@ -20,15 +20,7 @@ public class MainActivity extends AppCompatActivity {
         TextView textView = findViewById(R.id.textView);
         Button mybtn = findViewById(R.id.button);
 
-        mybtn.setOnClickListener(new View.OnClickListener() {
-            int count = 0;
-            public void onClick(View view) {
-                count+=1;
-                textView.setText(count);
-                Toast.makeText(MainActivity.this, count, Toast.LENGTH_SHORT).show();
-
-            }
-        });
+       
 
 
 
