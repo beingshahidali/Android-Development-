@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color sky_blue
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_home
+id action_search
+id checkBox
+id four
+id one
+id radioGroup
+id spinner
+id three
+id timePicker
+id two
+layout activity_main
+menu my_menu
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string Jordan
+string app_name
+style Base.Theme.AppResources
+style Theme.AppResources
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable earth
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id imageView
+id listView
+id moon_count_text
+id planet_name
+layout activity_main
+layout item_list_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.PlanetApp
+style Theme.PlanetApp
+xml backup_rules
+xml data_extraction_rules

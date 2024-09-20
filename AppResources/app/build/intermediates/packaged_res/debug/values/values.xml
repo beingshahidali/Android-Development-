@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="sky_blue">#0CBFCF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Jordan"> "I am Jordan and i'm from england "</string>
+    <string name="app_name">AppResources</string>
+    <style name="Base.Theme.AppResources" parent="Theme.Material3.DayNight">
+        
+        
+    </style>
+    <style name="Theme.AppResources" parent="Base.Theme.AppResources"/>
+</resources>
